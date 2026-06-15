@@ -14,6 +14,6 @@ Dashboard visualisasi interaktif menggunakan Tableau untuk menganalisis ulasan p
 
 📷 Dashboard
 ![Dashboard](/dashboard.png)
-🎯 Tujuan
 
-Menyajikan analisis visual yang interaktif untuk membantu mengidentifikasi pola dan tren kepuasan pelanggan British Airways dari berbagai aspek layanan.
+🎯 Tujuan
+- Menyajikan analisis visual yang interaktif untuk membantu mengidentifikasi pola dan tren kepuasan pelanggan British Airways dari berbagai aspek layanan.
